@@ -4,6 +4,7 @@ import PlayScreen from './stage/play.js';
 class EnemyManager extends me.Container {
 				static COLS = 8;
 				static ROWS = 4;
+	
 
 				constructor() {
 								super(0, 32, EnemyManager.COLS * 64 - 32, EnemyManager.ROWS * 64 - 32);
