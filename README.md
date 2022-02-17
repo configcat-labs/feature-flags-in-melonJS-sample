@@ -1,8 +1,8 @@
-# melonJS ES6 Webpack Boilerplate
+# Space Invaders replica game
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/melonjs/es6-boilerplate/blob/master/LICENSE)
 
-A simple ES6 Webpack based boilerplate to create games with [melonJS](https://github.com/melonjs/melonJS), built with :
+A simple ES6 Webpack based reconstruction of the Space Invaders game as a base showcase application for ConfigCat Feature Flag testing with [melonJS](https://github.com/melonjs/melonJS), built with :
 - [melonJS 2](https://github.com/melonjs/melonJS)
 - [ECMAScript 6](http://es6-features.org) structure and semantic
 - [Webpack](https://webpack.js.org/guides)
