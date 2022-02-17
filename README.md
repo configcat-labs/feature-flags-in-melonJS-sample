@@ -49,10 +49,11 @@ src
   - where to add your game assets
 
 
-Step by step tutorial from MelonJS and other usefull resources:
+Step by step tutorial from MelonJS and other useful resources:
 -------------------------------------------------------------------------------
-If you need technical support, you can contact us through the following channels :
 
-  - [melonJS developer forum](http://www.html5gamedevs.com/forum/32-melonjs/)
+  - [Space_Invaders_Tutorial](https://melonjs.github.io/tutorial-space-invaders/)
   - [ConfigCat_documentation](https://configcat.com/docs/)
-  - [Space_Invaders](https://melonjs.github.io/tutorial-space-invaders/)
+
+For any questions or technical support about MelonJS you should check out :
+  - [melonJS developer forum](http://www.html5gamedevs.com/forum/32-melonjs/)
