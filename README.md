@@ -1,19 +1,14 @@
 # Space Invaders replica game
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/melonjs/es6-boilerplate/blob/master/LICENSE)
 
-A simple ES6 Webpack based reconstruction of the Space Invaders game as a base showcase application for ConfigCat Feature Flag testing with [melonJS](https://github.com/melonjs/melonJS), built with :
-- [melonJS 2](https://github.com/melonjs/melonJS)
-- [ECMAScript 6](http://es6-features.org) structure and semantic
-- [Webpack](https://webpack.js.org/guides)
-- [ConfigCat](https://configcat.com/docs/)
-- [Webpack Dev Server](https://github.com/webpack/webpack-dev-server) plugin for local development
-- [Hot Reloading](https://webpack.js.org/concepts/hot-module-replacement) dev server
-- Basic Asset Build [management](https://webpack.js.org/plugins/copy-webpack-plugin/)
-- Minification and Transpiling to ES5 using [Babel](https://babeljs.io/docs/setup/#installation)
-- Favicon support using the [favicons Webpack Plugin)](https://www.npmjs.com/package/favicons-webpack-plugin)
+# A simple ES6 Webpack based reconstruction of the Space Invaders game as a base showcase application for [ConfigCat Feature Flag](https://configcat.com) testing with [melonJS](https://github.com/melonjs/melonJS).
 
-## Prerequisites
+
+This is a companion app for the [Space Invaders game with melonJS and Feature Flags](https://configcat.com/blog/2022/02/19/feature-flags-in-melonjs/) ConfigCat blogpost.
+
+
+
+## How to run
 
 Ensure you have [Node.js](http://nodejs.org/) installed, then install all the build dependencies in the folder where you cloned the repository :
 
@@ -54,6 +49,16 @@ Step by step tutorial from MelonJS and other useful resources:
 
   - [Space_Invaders_Tutorial](https://melonjs.github.io/tutorial-space-invaders/)
   - [ConfigCat_documentation](https://configcat.com/docs/)
+  - [melonJS 2](https://github.com/melonjs/melonJS)
 
-For any questions or technical support about MelonJS you should check out :
-  - [melonJS developer forum](http://www.html5gamedevs.com/forum/32-melonjs/)
+[**ConfigCat**](https://configcat.com) also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
+
+You can also explore other code samples for various languages, frameworks, and topics here in the [ConfigCat labs](https://github.com/configcat-labs) on GitHub.
+
+Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
+
+## Author
+[Manuel Popa](https://github.com/ManuelPopa)
+
+## Contributions
+Contributions are welcome!
