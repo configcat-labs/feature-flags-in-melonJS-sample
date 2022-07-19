@@ -1,7 +1,7 @@
 # Space Invaders replica game
 
 
-# A simple ES6 Webpack based reconstruction of the Space Invaders game as a base showcase application for [ConfigCat Feature Flag](https://configcat.com) testing with [melonJS](https://github.com/melonjs/melonJS).
+## A simple ES6 Webpack based reconstruction of the Space Invaders game as a base showcase application for [ConfigCat Feature Flag](https://configcat.com) testing with [melonJS](https://github.com/melonjs/melonJS).
 
 
 This is a companion app for the [Space Invaders game with melonJS and Feature Flags](https://configcat.com/blog/2022/02/19/feature-flags-in-melonjs/) ConfigCat blogpost.
